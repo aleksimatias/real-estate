@@ -2,8 +2,7 @@ This project was done following tutorials solely as practice.
 
 ## About
 
-This is a Next.js project bootstrapped with create-next-app.
+A Next.js Project that utilizes Chakra UI.
+API For this project was provided by RapidAPI.
 
-All styling is done with Chakra.
-
-The API used for this project was provided by RapidAPI.
+Live demo available on [Vercel](https://real-estate-am.vercel.app/).
